@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: e8ceb3c20ebd143238a64ca8a8942118
+timeCreated: 1475014465
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: Cylindrical_Tile_Narrow
+    100004: Cylindrical_Tile_Wide
+    100006: //RootNode
+    100008: Floor_Sink
+    100010: Floor_Tile_Wide
+    100012: Gate
+    100014: Pillar
+    100016: Pillar_Separator
+    100018: Quarter_Cylinder_wall
+    100020: Roof_Tile
+    100022: Roof_Tile_Narrow
+    100024: Separator_Large
+    100026: Separator_Medium
+    100028: Separator_Medium.001
+    100030: Small_Wall_Tile
+    100032: Torch
+    100034: Wall_Link
+    100036: Wall_Tile_Square
+    100038: Wall_Tile_Wide
+    400000: Barrel
+    400002: Cylindrical_Tile_Narrow
+    400004: Cylindrical_Tile_Wide
+    400006: //RootNode
+    400008: Floor_Sink
+    400010: Floor_Tile_Wide
+    400012: Gate
+    400014: Pillar
+    400016: Pillar_Separator
+    400018: Quarter_Cylinder_wall
+    400020: Roof_Tile
+    400022: Roof_Tile_Narrow
+    400024: Separator_Large
+    400026: Separator_Medium
+    400028: Separator_Medium.001
+    400030: Small_Wall_Tile
+    400032: Torch
+    400034: Wall_Link
+    400036: Wall_Tile_Square
+    400038: Wall_Tile_Wide
+    2300000: Barrel
+    2300002: Cylindrical_Tile_Narrow
+    2300004: Cylindrical_Tile_Wide
+    2300006: Floor_Sink
+    2300008: Floor_Tile_Wide
+    2300010: Gate
+    2300012: Pillar
+    2300014: Pillar_Separator
+    2300016: Quarter_Cylinder_wall
+    2300018: Roof_Tile
+    2300020: Roof_Tile_Narrow
+    2300022: Separator_Large
+    2300024: Separator_Medium
+    2300026: Separator_Medium.001
+    2300028: Small_Wall_Tile
+    2300030: Torch
+    2300032: Wall_Link
+    2300034: Wall_Tile_Square
+    2300036: Wall_Tile_Wide
+    3300000: Barrel
+    3300002: Cylindrical_Tile_Narrow
+    3300004: Cylindrical_Tile_Wide
+    3300006: Floor_Sink
+    3300008: Floor_Tile_Wide
+    3300010: Gate
+    3300012: Pillar
+    3300014: Pillar_Separator
+    3300016: Quarter_Cylinder_wall
+    3300018: Roof_Tile
+    3300020: Roof_Tile_Narrow
+    3300022: Separator_Large
+    3300024: Separator_Medium
+    3300026: Separator_Medium.001
+    3300028: Small_Wall_Tile
+    3300030: Torch
+    3300032: Wall_Link
+    3300034: Wall_Tile_Square
+    3300036: Wall_Tile_Wide
+    4300000: Barrel
+    4300002: Torch
+    4300004: Wall_Link
+    4300006: Gate
+    4300008: Floor_Sink
+    4300010: Cylindrical_Tile_Narrow
+    4300012: Cylindrical_Tile_Wide
+    4300014: Floor_Tile_Wide
+    4300016: Pillar
+    4300018: Pillar_Separator
+    4300020: Quarter_Cylinder_wall
+    4300022: Roof_Tile
+    4300024: Roof_Tile_Narrow
+    4300026: Separator_Large
+    4300028: Separator_Medium
+    4300030: Separator_Medium.001
+    4300032: Small_Wall_Tile
+    4300034: Wall_Tile_Square
+    4300036: Wall_Tile_Wide
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
