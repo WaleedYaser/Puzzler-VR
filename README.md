@@ -1,10 +1,13 @@
 # Puzzler-VR
-A VR Puzzle Game for Cardboard Using Unity.
+Puzzler is a mobile VR application for new VR users which challenges them to solve a familiar type of puzzle in a new way. You just need your mobile and VR cardboard and you can enjoy playing puzzles in a virtual world without being distracted by anything from the real world you live in.
 
 ## Gameplay Video
 Gameplay from the start to the end.
 
 [![Alt text](https://img.youtube.com/vi/fXgvAwGKskg/0.jpg)](https://www.youtube.com/watch?v=fXgvAwGKskg "Click to play on youtube.com")
+
+## Design process
+You can find more details about the design prcess on my story at medium [here](https://medium.com/@WaleedYaser/experience-vr-with-puzzler-game-1773b7913d73).
 
 ## Release
 You can download the game for your android device from [here](../../releases/download/v1.0/Puzzler.apk).
