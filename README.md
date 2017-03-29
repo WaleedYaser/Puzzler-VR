@@ -7,7 +7,7 @@ Gameplay from the start to the end.
 [![Alt text](https://img.youtube.com/vi/fXgvAwGKskg/0.jpg)](https://www.youtube.com/watch?v=fXgvAwGKskg "Click to play on youtube.com")
 
 ## Release
-You can download the game for your android device from [here](Project/Builds/Puzzler.apk).
+You can download the game for your android device from [here](../../releases/download/v1.0/Puzzler.apk).
 
 ## Software
 * **Game Engine :**
